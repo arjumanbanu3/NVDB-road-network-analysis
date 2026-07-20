@@ -57,16 +57,8 @@ import json
 
 with open("response_1784412846986.json", "r") as f:
     data = json.load(f)
-
-
-
-
-```python
-import json
-
-with open("response_1784412846986.json", "r") as f:
-    data = json.load(f)
 ```
+
 
 ## Workflow Example
 
