@@ -46,7 +46,7 @@ GIS Integration
 Quality Assurance
 
 ---
-![NVDB Workflow](screensw.png
+
 
 ## Python Tasks
 
@@ -63,4 +63,4 @@ with open("response_1784412846986.json", "r") as f:
 
 The screenshot below shows the process of loading NVDB road network data, inspecting attributes and extracting road geometry using Python.
 
-![NVDB Workflow](screensw.png
+![NVDB Workflowb_workflow.png
