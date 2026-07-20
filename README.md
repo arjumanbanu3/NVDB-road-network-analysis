@@ -63,4 +63,4 @@ with open("response_1784412846986.json", "r") as f:
 
 The screenshot below shows the process of loading NVDB road network data, inspecting attributes and extracting road geometry using Python.
 
-![NVDB Workflowb_workflow.png
+screenshots_nvdb_workflow.png
