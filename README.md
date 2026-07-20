@@ -28,6 +28,7 @@ Bergen Municipality (4601), Norway
 
 - National Road Database (NVDB) API V4
 - Bergen road network segments
+- Link: https://nvdbapiles.atlas.vegvesen.no/swagger-ui/index.html?urls.primaryName=Vegnett#/Vegnett/getVeglenkesegmenter
 
 ---
 
